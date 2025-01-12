@@ -13,3 +13,12 @@ I wanted to make the readability of the wavefunction very easy in this quantum s
 
 ![image](https://github.com/user-attachments/assets/782ddbb5-c145-4124-b57e-843033ac17a7)
 
+## Grover's Algorithm
+
+I implemented Grover's algorithm as a unit test to show the usefulness of the wavefunction readability at each step of the quantum algorithm.
+
+![image](https://github.com/user-attachments/assets/238c30b7-8981-4155-a4c2-762980790e25)
+
+
+
+
