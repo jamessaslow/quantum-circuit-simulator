@@ -9,7 +9,7 @@ A simple two qubit quantum circuit simulator software with Grover's Algorithm as
 
 ## Wavefunction Readability
 
-I wanted to make the readability of the wavefunction very easy in this quantum software, and come up with a way to display my wavefunction in braket notation. Furthermore, I wanted to give the user the option to display their wavefunction in cartesian, or polar form.
+I wanted to make the readability of the wavefunction very easy in this quantum software, and come up with a way to display my wavefunction in braket notation. Furthermore, I wanted to give the user the option to display their wavefunction in cartesian, or polar form. Qiskit, on the other hand, displays their statevectors as arrays, and I believe this can be confusing without displaying the basis vector next to its corresponding probability amplitude.
 
 ![image](https://github.com/user-attachments/assets/782ddbb5-c145-4124-b57e-843033ac17a7)
 
